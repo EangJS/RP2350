@@ -1,0 +1,6 @@
+[submodule "vendor/pico-sdk"]
+	path = vendor/pico-sdk
+	url = git@github.com:raspberrypi/pico-sdk.git
+[submodule "vendor/SEGGER_RTT"]
+	path = vendor/SEGGER_RTT
+	url = git@github.com:SEGGERMicro/RTT.git
